@@ -495,8 +495,7 @@ ANOTACIONES
 	
 WEBS DE DISEÑO
 
-``
-`
+
 
 Codigos ASCI para caracteres de programacion
 
